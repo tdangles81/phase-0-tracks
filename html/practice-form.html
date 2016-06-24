@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pick your city</title>
+</head>	
+<body>
+	<form name="success" action="success.html" method="post" id ="success">
+		<fieldset>
+			<div>
+				<label>Cities</label>
+				<select name="city">
+					<option value="san_francisco">San Francisco</option>
+					<option value="new_york">New York</option>
+					<option value="chicago">Chicago</option>
+				</select>
+			</div>
+		</fieldset>
+	<fieldset>
+		<div>
+			<label>City in Texas</label>
+			<input type="text" name="texas_city">	
+		</div>
+		<div>
+			<label>Secret City</label>
+			<input type="password" name="secret_city">
+		</div>
+		<div>
+			<label>Email</label>
+			<input type="email" name="email">
+		</div>
+	</fieldset>
+	<button type="submit">Save your city</button>
+
+	</form>
+	<textarea name="comment" form="success">Enter why here</textarea>
+</body>
+</html>
