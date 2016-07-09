@@ -20,7 +20,7 @@ Operating a bike requires a lot of steps if you think about it, and there are to
 
 3. Grab the left handle with the free hand, and push off the ground with the left leg (the one not on the pedal), and push down with the right leg. The bike should start moving as pressure is applied to the right pedal.
 
-4. Finally once there is the least amount of resistence on the right leg, apply, equal force that was applied to the right leg previously. Alternate until fun == false.
+4. Finally once there is the least amount of resistence on the right leg apply an equal amount of force as was applied to the right leg previously. Alternate until fun == false.
 
 
 
