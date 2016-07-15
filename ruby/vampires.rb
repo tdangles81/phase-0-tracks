@@ -23,8 +23,8 @@ def vampire_detector
 		puts "Do you hate garlic bread (y/n)?"
 		garlicbool = gets.chomp
 
-		while allergylist = gets.chomp
 		puts "Add allergies. Input 'done' when complete."
+		while allergylist = gets.chomp
 			case allergylist
 			when "sunshine"
 				break
@@ -50,7 +50,7 @@ def vampire_detector
 		elsif allergylist == "sunshine"
 			puts "Probably a vampire."
 		end
-	puts newemployeenum
+	puts "Employee number #{employeenum}"
 	newemployeenum -=1
 	end
 	puts final_line
