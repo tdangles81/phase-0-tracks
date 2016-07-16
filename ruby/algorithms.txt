@@ -1,0 +1,26 @@
+This elevator is given a made-up number of floors, which in this case happens to 10. The building the elevator belongs to is a very small Trump Tower, so the elevator works okay but is a little erratic. There are 10 buttons, marked 0-9, positioned similar to a telephone keypad. The elevator's bottom is always at the height selected.
+
+1. My elevator logic is programmed to take two digits. The digit in the hundreds place translates into 10', and the digit in the tens place translates into 100'.
+
+2.Since there are 10 floors that can be selected from total, when two digits are selected from the keypad, the number of feet calculated is determined to reach the desired floor. 
+
+3.The elevator is by default at floor 0, our destination is floor 5. To reach this floor, the keypad calls for an input of 05 (10*5).
+
+4. While the elevator is traveling, it should not stop until it reaches the conditions given by the keypad's input (while <= 50' go otherwise stop) 
+
+5. When moving form the elevator position to another floor, let's say 4, the elevator needs to add or subtract the number of feet of travel to successfully reach the desired destination. To reach the 4th floor, input 04. This tells the elevator logic to subtract 40*10 from 50*10, then subtract the result from the original 50*10--resulting in 50-10'.
+
+Personal: 
+
+Operating a bike requires a lot of steps if you think about it, and there are tons of different variables (direction, etc), so this bike is only capable of traveling forward. However, since bikes are expected to do the same thing every time, such as not got backwards or brake randomly, these are the rules to make it work the most consistently. 
+
+1.A firm grip needs to be applied to a handle so the bike doesn't tip over. Until the right leg is swung over and a bottom is firmly pressed on the seat, the right hand must remain firmly. Do this, then plant the foot of the right leg on the respective pedal. Until this foot is on the pedal, you won't be able to successfully take off on the bike later on.
+
+2.The bike, and you,  will still tip over without a leg firmly planted on the ground, so the left leg not used to straddle the bike is still placed on the ground.
+
+3. Grab the left handle with the free hand, and push off the ground with the left leg (the one not on the pedal), and push down with the right leg. The bike should start moving as pressure is applied to the right pedal.
+
+4. Finally once there is the least amount of resistence on the right leg apply an equal amount of force as was applied to the right leg previously. Alternate until fun == false.
+
+
+

@@ -4,6 +4,7 @@ blockquote {
   margin-left: 0px;
 }
 
+
 cite {
   display: block;
   margin-top: 10px;
@@ -12,6 +13,9 @@ cite {
 #external-links ul {
   list-style-type: none;
   padding-left: 0px;
+  width: 20%;
+  height: 100px;
+  float: left;
 }
 
 /* you're welcome to edit the
@@ -30,3 +34,52 @@ figcaption {
   font-style: italic;
   text-align: right;
 }
+
+
+/*______________________work__________________*/
+body
+{
+max-width: 960px;
+margin-right: 10%;
+margin-left: 10%;
+text-align: center;
+}
+
+ul {
+    
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    padding: 8px;
+    decor
+  }
+
+main{
+  width: 80%;
+  float: left;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: hotpink;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  main {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    color: red;
+  }
+}
+/*______________________work__________________*/
