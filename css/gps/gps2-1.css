@@ -1,0 +1,27 @@
+header {
+  background-color: orange;
+}
+
+section {
+  padding-left: 10px;
+}
+
+.column-1 {
+  background-color: lightgray;
+  width: 49%;
+  height: 100%;
+  float: left;
+}
+
+.column-2 {
+   background-color: gray;
+   float: right;
+   width: 49%;
+   height: 970px;
+}
+
+footer {
+  background-color: red;
+  width: 100%;
+  clear: both;
+}
