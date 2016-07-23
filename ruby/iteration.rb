@@ -1,7 +1,10 @@
-puts "The block is going to run"
-5.times{|counter| puts "The block has run #{counter} times."}
 
+puts "The block is going to run"
+
+5.times{|counter| puts "The block has run #{counter} times."}
 puts "The block has completed"
+
+#######################################
 
 letters = ["a", "b", "c", "d", "e"]
 new_letters = []
@@ -23,6 +26,8 @@ numbers.each do |digit, word|
 	puts "#{digit} is spelled as #{word}"
 end
 
+#######################################
+
 cities = ["Ny", "Sf", "ChicagO", "AustiN"]
 new_cities = []
 
@@ -42,6 +47,8 @@ city_hash = {"NY" => "Times Square", "SF" => "Golden Gate Bridge", "Chicago" => 
 city_hash.each do |city, landmark|
 	puts "#{landmark} is in #{city}."
 end
+
+#######################################
 
 num_hash = {1 => 10, 2 => 20, 3 => 30, 4 => 40, 5 => 50}
 num_array = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
