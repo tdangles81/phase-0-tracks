@@ -5,7 +5,8 @@ cities = {
 		sf_landmarks: [
 			'Golden Gate Bridge', 'AT&T Park', 
 			sf_slogan: 'The best city ever!'
-		]
+		],
+		'about_hash' => ['This is the hilliest city in California.']
 		},
 	new_york: {
 		ny_landmarks: [
@@ -35,7 +36,9 @@ cities = {
 
 }
 
-cities[:landmarks][:san_francisco][:sf_landmarks][2][:sf_slogan] = 'home of the giants'.upcase
+p cities[:landmarks][:san_francisco]['about_hash'][0]
+
+p cities[:landmarks][:san_francisco][:sf_landmarks][2][:sf_slogan] = 'home of the giants'.upcase
 
 p cities[:landmarks][:san_diego][:sd_landmarks]
 
