@@ -5,7 +5,7 @@
 #Stores the converted strings in an array, and outputs both the original
 #and manipulated strings.
 
-puts "Create a new secret agent name: "
+puts "Convert your name to a super cool secret agent name: (first last)"
 inputted_name = gets.chomp
 
 #---------------->main method responsible for all string manipulations.
