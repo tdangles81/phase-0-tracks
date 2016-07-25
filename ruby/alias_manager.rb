@@ -7,10 +7,6 @@
 
 puts "Create a new secret agent name: "
 inputted_name = gets.chomp
-vowels = %w[aeiou]
-normal_name = []
-new_name = []
-updated_name = []
 
 #---------------->main method responsible for all string manipulations.
 
