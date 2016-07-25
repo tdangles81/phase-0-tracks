@@ -39,7 +39,7 @@ def nameswap(name)
 			end
 		end
 
-#---------------> format new array of characters to original, then store first an last name.
+#---------------> format new array of characters to original format, then store first an last name.
 		temp_name = new_name.join("")
 		split_name = temp_name.split(' ')
 
@@ -55,12 +55,14 @@ def nameswap(name)
 		name = gets.chomp
 	end
 
-#---------------> output data of original string and new string arrays at identical indexes.
+#---------------> outputs data of original array and new string array at identical indexes.
 	count = 0 
 	while count < normal_name.length
 		puts "#{hidden_name[count]}'s real name is actually #{normal_name[count]}."
 		count += 1
 	end
 end
+
+#--------------->TEST
 
 p nameswap(inputted_name)
