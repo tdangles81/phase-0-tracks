@@ -1,4 +1,4 @@
-puts "Add an equation with the format: '1 + 5'. Program performs sum, difference, and product calculations."
+puts "Add an equation with the format: '1 + 5'. Program performs sum, difference, and mean."
 init_input = gets.chomp
 
 def calculator(input)
