@@ -1,26 +1,28 @@
-puts "Add an equation with the format: '1 + 5'. Program performs sum, difference, and product calculations."
-init_input = gets.chomp
-$calculations_store = []
-
 def calculator(num1, operator, num2)
 
 	if operator == '+'
-		new_sum = num1.to_i + num2.to_i
+		new_sum = num1 + num2
 		puts new_sum
 	elsif operator == '-'
-		new_sum = num1.to_i - num2.to_i
+		new_sum = num1 - num2
 		puts new_sum
 	elsif operator == '*'
-		new_sum = num1.to_i * num2.to_i
+		new_sum = num1 * num2
 		puts new_sum
 	else 
 		puts "Your math could use some work, or program doesn't handle this kind of equation. Try again."
 	end
-	$calculations_store << new_sum
+	return new_sum
 end
+
+puts calculator(10, '+', 20)
 
 def convert_to_equation(input)
 	equation_store = []
+	calculations_store = []
+
+	puts "Add an equation with the format: '1 + 5'. Program performs sum, difference, and product calculations."
+	init_input = gets.chomp
 
 	while input != 'done'
 		equation_store << input
@@ -40,6 +42,6 @@ def convert_to_equation(input)
 	end
 end
 
-convert_to_equation(init_input)
+convert_to_equation(gets.chomp)
 
 
