@@ -40,19 +40,25 @@ puppy.dog_years(10)
 puppy.feed_dog(true)
 
 #Custom---------------
-#custom class - created a class that selects a guitar at random.
-#pairs the guitar with randomly selected tone that should be played.
+#the following is not pseudocode. Just personal notes.
+#custom class - created a class that pairs a guitar and tone randomly.
 #creates several instances of the class.
-#iterates through each instance and calls methods with ObjectSpace.each_object.
+#iterates through stored instances and calls methods with GuitarSelector.instances.each block.
 
 class GuitarSelector
 
 	@@instances = []
 
 	def initialize
+		@@instances << self
 		puts "Initializing Guitar method values..."
 		@guitar_types = ["Gibson", "Jackson", "Fender", "PRS", "Dean", "Martin"]
 		@guitar_sounds = ["Rock", "Metal", "Blues", "Jazz", "Deathcore", "Folk"]
+	end
+
+	#required for outside access to the array
+	def self.instances
+		@@instances
 	end
 
 	def guitar_types
@@ -72,7 +78,7 @@ end
 	guitars = GuitarSelector.new
 end
 
-ObjectSpace.each_object GuitarSelector do |obj|
+GuitarSelector.instances.each do |obj|
 	obj.guitar_types
 	obj.guitar_tones
 end
