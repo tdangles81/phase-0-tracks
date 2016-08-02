@@ -1,0 +1,3 @@
+Create a game that will take information from two inputs, an initial input and another input. The first input will create a word which the rest of the game will be based on, and the game logic will be adjusted based on the length of the word.
+
+Once a word has been inputted into the game by one user, the bulk of the logic in the game will depend on the strategy of the second player. Since the second player has a limited number of tries, guessing too many times won't work to their advantage. Instead, the game will give cues that the player can use to determine which letters are required to complete the word. 
