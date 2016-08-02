@@ -1,0 +1,981 @@
+commit d05ed77f3fc9460ecc84f73e24de76e8720bc873
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Mon Aug 1 22:07:57 2016 -0700
+
+    Created words_with_friends.rb game
+
+commit 9f60b775243d0b0c4fd2d64ee770168519ad6d28
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 31 23:49:54 2016 -0700
+
+    Refactored custom class to call methods from stored instances
+
+commit c7f7282da10224162ba35be724e49f7665d6df67
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 31 23:27:21 2016 -0700
+
+    Added custom class to puppy_methods.rb
+
+commit 34a07af780e2a9da28a0c5c55c9fa42eb0d84490
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 29 16:33:48 2016 -0700
+
+    Added tests for ToDo.
+
+commit ae551126950d6cdb753ab1e9120540b304272f12
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Thu Jul 28 18:41:16 2016 -0700
+
+    Created custom module for shout.rb
+
+commit 9f3c9240d272ea2756edcdcb0a369918237f0337
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Thu Jul 28 01:05:11 2016 -0700
+
+    Added santa.rb reindeer attributes
+
+commit 5413ff5978b087902721015b7c062fac332e7e7d
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Mon Jul 25 23:20:07 2016 -0700
+
+    Added puppy.rb.
+
+commit 0ed05587af5d92216ab11fde68442e4856ec0385
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 24 21:38:41 2016 -0700
+
+    Minor interface changes.
+
+commit 1d303f00e0a39450707a1a590f65445ae3674723
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 24 19:44:40 2016 -0700
+
+    Minor note changes.
+
+commit bf3a87c4f30bf787b0c0b8956563ce77c2bd3421
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 24 19:37:41 2016 -0700
+
+    Removed unecessary bits of code.
+
+commit d822e548fce47ff7bfbd8729b043f7792406b3cc
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 24 19:36:31 2016 -0700
+
+    Added notes to algorithm functionality.
+
+commit 3bbf82faebb93338b4481b10d453c09d7ada769f
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sun Jul 24 19:15:40 2016 -0700
+
+    Wrote alias_manager name algorithm.
+
+commit f916ffb9a41b4bb602f4b99dc0559049219e151e
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 23 18:10:22 2016 -0700
+
+    Implemented hash in array.
+
+commit dc40fea1597797dff35c7d60c5be60956739c754
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 23 18:04:09 2016 -0700
+
+    Added nested data structures.
+
+commit 6d7e4680087f11addeb8ed86ccf07ed8a855ee0e
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 22 22:34:44 2016 -0700
+
+    Added hash functionality to hashes.rb
+
+commit e2747b2b59b66cb815e4dcd1032b3c540bf8e17f
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 22 21:54:16 2016 -0700
+
+    Updated iteration.rb
+
+commit b5314ee961819d577eab4cc070c951480a3c88fe
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 22 21:50:39 2016 -0700
+
+    Updated iteration.rb
+
+commit f40fca8d133ea1928b95b46fe7aba68a91efea17
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Thu Jul 21 17:55:07 2016 -0700
+
+    Added method- detective.rb
+
+commit 39f6c8f513a1a377f8feb2b30090639f4a903214
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Thu Jul 21 11:44:15 2016 -0700
+
+    Added problem_solving_methods.rb
+
+commit d3bfea92d1ba100536e893efdd3884fa359756a4
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 16 11:15:48 2016 -0700
+
+    Remove unecessary files
+
+commit 9bd15068c9df2b9f05cbf9f1ad26ac582dba50fd
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 16 11:14:04 2016 -0700
+
+    Dressed up gps2-1
+
+commit c8a9a7018235411b76891f39a13a4f99dedd117c
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 16 10:19:16 2016 -0700
+
+    Added gps2-1
+
+commit e8ed4e298119b866cb5f7ce025ec63d0d0c90b5c
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 15 16:12:43 2016 -0700
+
+    Updated vampires.rb
+
+commit 8e1b41e0d5c5cf56b6a2345dd9c3247d4521253c
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 15 16:03:54 2016 -0700
+
+    Added hamsters.rb
+
+commit c6671e7e60e65357d72a892ca4f1b78df1b0d808
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Tue Jul 12 18:53:56 2016 -0700
+
+    Added secret_agents.rb methods.
+
+commit d114ae67bbe6a03f90841c64378981038b371355
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Tue Jul 12 02:07:55 2016 -0700
+
+    Added vampire logic.
+
+commit 1eff6bbfbbd0309f12d1e9270dd5ee93bf4faad5
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 8 22:31:31 2016 -0700
+
+    Updated algorithms.txt
+
+commit 8f429da5107c65f24fab7535a5573acaae950b1c
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 8 22:29:08 2016 -0700
+
+    Added algorithms.txt changes
+
+commit 184f6b85c94029a7c0d6388706b39208a3556468
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Mon Jul 4 01:05:31 2016 -0700
+
+    Added 3.2 changes.
+
+commit 5cafe97613d83df91e53ecf2eddce10c42187303
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 2 13:12:19 2016 -0700
+
+    Added semantic elements.
+
+commit e512edf64d6bfcfcf67b4e165e3553b285dbb78a
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jul 2 12:15:23 2016 -0700
+
+    Added gps dir
+
+commit 160a4bf23dbc22d92d5d9128f989ebce182758df
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jul 1 14:25:28 2016 -0700
+
+    Decorated an octupus with a stylesheet.
+
+commit cedd11497af9eac87fcf89053f9d42ab44ae1c75
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Thu Jun 30 12:24:41 2016 -0700
+
+    Made responsive design changes.
+
+commit 5c3f277bb87f7b1c10b3f5fbebb81660f1f7769c
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 21:35:55 2016 -0700
+
+    Added tables to html dir
+
+commit c3a547f85329ec6224d114193620e8f969a5da36
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 19:01:48 2016 -0700
+
+    Release 1-complete
+
+commit 0e98c126c822297030cf4ac4b57a5dc5fbdd54f2
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 18:35:14 2016 -0700
+
+    Complete release-0
+
+commit c9f8e32dfd40f4e6ec1d48734d8a1b58b8bab4e6
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 14:56:15 2016 -0700
+
+    Added first website markup
+
+commit 11f6d973c4f42ae9e0a9eb71ec8ddfc237a7351a
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 14:41:42 2016 -0700
+
+    Updated index.html
+
+commit 86951ad81e3f1cf51a2f5d80c8395315e390edc0
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 14:41:19 2016 -0700
+
+    Added index.html and message
+
+commit a763dfab0d86507937deeee7576b39e8b6cb7f3b
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Sat Jun 25 14:11:26 2016 -0700
+
+    Updated git-defintions.md
+
+commit 7faec89b996ae1bccef19d094a742781489d2c12
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jun 24 16:01:09 2016 -0700
+
+    Added input_elements.md
+
+commit 62153a1eb63d431c7a46ebe9d945665a26b36edd
+Author: Ty Daniels <ty.multisonus@gmail.com>
+Date:   Fri Jun 24 15:54:49 2016 -0700
+
+    Submission for 2.4
+
+commit 8ebb9c4da5522f2396f64da36b9f38bee599f1c8
+Merge: f05e2d5 eb6eedc
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:51 2016 -0500
+
+    Merge pull request #1191 from Devbootcamp/revert-1142-fixit
+    
+    Revert "Fixing all the things"
+
+commit eb6eedc69c238a8196dcbd25ce49b829c9aa34de
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:42 2016 -0500
+
+    Revert "Fixing all the things"
+
+commit f05e2d5c8ebf6ce5ee18ad437522e72aa19c8552
+Merge: 01d3b25 6c54eaf
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:36 2016 -0500
+
+    Merge pull request #1190 from Devbootcamp/revert-1143-fixit
+    
+    Revert "Fixit"
+
+commit 6c54eaf3680c5a7412f5b3d6d7f89a14c1fe590f
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:27 2016 -0500
+
+    Revert "Fixit"
+
+commit 01d3b25e3001aae5ba1fdb0d8030f9381e175ddb
+Merge: 423f5b2 612c0b1
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:23 2016 -0500
+
+    Merge pull request #1189 from Devbootcamp/revert-1144-helloworld
+    
+    Revert "My first hello world"
+
+commit 612c0b1a5edd46cc9d2e7233d125fe839789aecf
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:15 2016 -0500
+
+    Revert "My first hello world"
+
+commit 423f5b2f73e3f452a1100a8886577d0dacc8d77d
+Merge: 19b4aaf f53523e
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:11 2016 -0500
+
+    Merge pull request #1188 from Devbootcamp/revert-1169-bestiestable
+    
+    Revert "Bestiestable"
+
+commit f53523e9c3c775d0e36a6783b308a68d82f8b7fc
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:24:00 2016 -0500
+
+    Revert "Bestiestable"
+
+commit 19b4aaf865a4cd4924339cd896abcc01e3439f94
+Merge: 67a4519 07fc73c
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:23:11 2016 -0500
+
+    Merge pull request #1187 from Devbootcamp/revert-1185-revert-1035-revert-890-master
+    
+    Revert "Revert "Revert "update phase 0 stuff.md"""
+
+commit 07fc73c0cf84eab98058803569fded8c2bb30fe7
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:23:02 2016 -0500
+
+    Revert "Revert "Revert "update phase 0 stuff.md"""
+
+commit 67a451970940a7d4e770a2c82988cb6bf2695e06
+Merge: e2a48c9 5a64ba9
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:22:45 2016 -0500
+
+    Merge pull request #1186 from Devbootcamp/revert-1172-moonbootz
+    
+    Revert "Completed MoonBootz"
+
+commit 5a64ba954fcc8067d8f812c6e3507e283e0bdb03
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:22:23 2016 -0500
+
+    Revert "Completed MoonBootz"
+
+commit e2a48c9a66ac2381e0dc58d157d517d525cc529f
+Merge: 570297d 8a587f7
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:08:32 2016 -0500
+
+    Merge pull request #1185 from Devbootcamp/revert-1035-revert-890-master
+    
+    Revert "Revert "update phase 0 stuff.md""
+
+commit 8a587f7d3e3f6af6159bb982ae5e8ba0f8e6d616
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Mon Jun 20 10:08:20 2016 -0500
+
+    Revert "Revert "update phase 0 stuff.md""
+
+commit 570297dcef05384b731d146c79e3c6fa97cac2f5
+Merge: 6edca87 107377d
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Wed Jun 15 19:35:05 2016 -0700
+
+    Merge pull request #1172 from kamrinklauschie/moonbootz
+    
+    Completed MoonBootz
+
+commit 107377d511301f28c121632d4e983637f5a75dff
+Author: Kamrin Klauschie <kamrinklauschie@Kamrins-MacBook-Air-2.local>
+Date:   Wed Jun 15 19:33:40 2016 -0700
+
+    Completed MoonBootz
+
+commit 6edca87d34ae81d9fee63fb110631692e047423d
+Merge: 9240b6a ee7bba0
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Tue Jun 14 20:08:58 2016 -0700
+
+    Merge pull request #1169 from kamrinklauschie/bestiestable
+    
+    Bestiestable
+
+commit ee7bba030367026382fb091086b6dd359ea906d8
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 22:02:50 2016 -0700
+
+    Adding besties table
+
+commit f850312a4db5d759ce8622a2b471808900b66aed
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 21:51:48 2016 -0700
+
+    Created my besties table
+
+commit 9240b6a7afaaaa440130437044404c7e12805b51
+Merge: 819ba3d 85ae4f8
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 19:21:56 2016 -0700
+
+    Merge pull request #1144 from kamrinklauschie/helloworld
+    
+    My first hello world
+
+commit 819ba3dba4791aa99ae246c6bcba6349ce9486d9
+Merge: bc3d7e6 61badd1
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 19:21:41 2016 -0700
+
+    Merge pull request #1143 from kamrinklauschie/fixit
+    
+    Fixit
+
+commit 85ae4f89bfb6c041858d349fe2ea97838499e967
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 19:18:55 2016 -0700
+
+    My first hello world
+
+commit 61badd1de04f83f5df07df96df56a40132f44dc8
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 18:22:34 2016 -0700
+
+    delete CNN
+
+commit 6fa50d729730acb24fd40f39b341e161c03c915e
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 18:18:06 2016 -0700
+
+    Moving CNN
+
+commit bdacb40a86e61c28c9dfd61fc6a1922f77abf438
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 18:13:01 2016 -0700
+
+    add test file
+
+commit bc3d7e6eb4f962ac9f19fcaf1407bb7b57b3dfc4
+Merge: dbac21b 7bae28d
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 18:04:33 2016 -0700
+
+    Merge pull request #1142 from kamrinklauschie/fixit
+    
+    Fixing all the things
+
+commit 7bae28d958bbd1aebd961672654ba3545c180162
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sat Jun 11 18:02:09 2016 -0700
+
+    Fixing all the things
+
+commit dbac21bc9587500344c4aa85b34962f05608e0ee
+Merge: 18c5401 142c6b5
+Author: Andrew Larson <andrew.larson@devbootcamp.com>
+Date:   Fri Jun 3 17:59:29 2016 -0400
+
+    Merge pull request #1035 from Devbootcamp/revert-890-master
+    
+    Revert "update phase 0 stuff.md"
+
+commit 142c6b55c46cdb2f29b72fefc8861df516d964f0
+Author: Andrew Larson <andrew.larson@devbootcamp.com>
+Date:   Fri Jun 3 17:59:12 2016 -0400
+
+    Revert "update phase 0 stuff.md"
+
+commit 18c5401edb9866f03b139659c96e205ac50cbab1
+Merge: ab3b33d 8572fff
+Author: katymartin16 <katy.martin@devbootcamp.com>
+Date:   Fri Jun 3 14:00:33 2016 -0500
+
+    Merge pull request #890 from katymartin16/master
+    
+    update phase 0 stuff.md
+
+commit 8572fff8d2aea44f6b59794b762410dda560f7e4
+Merge: 08f4f30 ab3b33d
+Author: katymartin16 <kathleen.martin@devbootcamp.com>
+Date:   Fri Jun 3 13:56:53 2016 -0500
+
+    Merge https://github.com/Devbootcamp/phase-0-tracks
+
+commit 08f4f30d8d8212a80a84fc42c966ef3bc568ad11
+Author: katymartin16 <kathleen.martin@devbootcamp.com>
+Date:   Fri Jun 3 13:54:51 2016 -0500
+
+    added CNN screenshot of url sidebar
+
+commit ab3b33d3f8c0d712625dc1064203a4bba9a0e567
+Merge: 6bce71d 15703cc
+Author: Emmanuel Kaunitz <ekaunitz@gmail.com>
+Date:   Thu May 26 11:21:01 2016 -0400
+
+    Merge pull request #907 from Devbootcamp/revert-885-awesome-feature-branch
+    
+    Revert "Added git definitions to git definitions file"
+
+commit 15703cca8b667ce58a42ff4fd09610f901227931
+Author: Emmanuel Kaunitz <ekaunitz@gmail.com>
+Date:   Thu May 26 11:20:43 2016 -0400
+
+    Revert "Added git definitions to git definitions file"
+
+commit 6bce71d6007bbc68feaf74aca5485fc771eda5eb
+Merge: 64241e9 d09c506
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sun May 22 18:04:53 2016 -0700
+
+    Merge pull request #885 from kamrinklauschie/awesome-feature-branch
+    
+    Added git definitions to git definitions file
+
+commit d09c506a643981c579a0b5e3cf5e7985d9d3ae52
+Author: Kamrin Klauschie <kamrin.klauschie@gmail.com>
+Date:   Sun May 22 18:03:05 2016 -0700
+
+    Added git definitions to git definitions file
+
+commit 64241e92516790b20c32aeb6c03ac5733cfff3f2
+Merge: 7cf2d8d 66142da
+Author: Glenna Mowry <gmmowry@users.noreply.github.com>
+Date:   Wed May 18 08:50:34 2016 -0500
+
+    Merge pull request #835 from Devbootcamp/revert-811-new
+    
+    Revert "My responses to the definition quesitons"
+
+commit 66142da79f1948410a24b2e6de4052892bd6a541
+Author: Glenna Mowry <gmmowry@users.noreply.github.com>
+Date:   Wed May 18 08:50:16 2016 -0500
+
+    Revert "My responses to the definition quesitons"
+
+commit 7cf2d8dd3f588354e12c9af80d6b24a6fcc5fb0d
+Merge: 6eb48f1 b0c2d6e
+Author: Leia Ferrari <leia.ferrari2@gmail.com>
+Date:   Sun May 15 17:26:29 2016 -0700
+
+    Merge pull request #811 from lferrari2/new
+    
+    My responses to the definition quesitons
+
+commit b0c2d6e7622ab9f739173951cbb88c8826502f25
+Author: Leia Ferrari <leia.ferrari2@gmail.com>
+Date:   Sun May 15 17:25:23 2016 -0700
+
+    My responses to the definition quesitons
+
+commit 6f85c9b360a4182997b3658e23e5779140e7e1c3
+Merge: 6eb48f1 8526fa1
+Author: katymartin16 <katy.martin@devbootcamp.com>
+Date:   Mon May 9 11:43:38 2016 -0500
+
+    Merge pull request #1 from katymartin16/feature-branch
+    
+    updated definitions of git folder
+
+commit 8526fa122aa2d90d053f476781e654d337d05526
+Author: katymartin16 <kathleen.martin@devbootcamp.com>
+Date:   Mon May 9 11:39:55 2016 -0500
+
+    updated definitions of git folder
+
+commit 6eb48f109b55dd46eb703fd3d65c3ea10cc92c0f
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Apr 21 01:05:12 2016 -0700
+
+    Add code for templating
+
+commit 28e8275890d69b8af6f5962571a76f96b1b0cc51
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Wed Apr 20 23:23:00 2016 -0700
+
+    Add templating files
+
+commit c3dccab51b524a4083de1e3e3cf0e2d7aec18c54
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Wed Apr 20 21:05:50 2016 -0700
+
+    Add code for Week 9
+
+commit d481b60b3eb4a01f7e489c91091f97456ce3f585
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Apr 19 21:37:36 2016 -0700
+
+    Add destination folder for week 9
+
+commit 4e566127e1b069149cb8959a79315f09ddfa03d1
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Fri Apr 15 11:52:55 2016 -0700
+
+    Add program that uses persistent data
+
+commit 5aa68c0652e70fe28c68f5efbaf0a1a869c73beb
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Fri Apr 8 15:52:43 2016 -0700
+
+    Clarify wording
+
+commit 97834aefeda063eab9fc47a204cf3c95cc47baf8
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Fri Apr 8 14:00:35 2016 -0700
+
+    Fix html errors
+
+commit 2bd6da0cd8ba360a9d71effbb7958f42ffd49888
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Apr 5 18:39:12 2016 -0700
+
+    Add SQLite3 database for 8.1
+
+commit 54b039a51d23b0d838bc2b1a60ac90485dcb3296
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Mar 28 15:13:05 2016 -0700
+
+    Fix spacing
+
+commit 50794167719866baf2572d3f0e206389af3c2ab7
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Mar 28 13:50:09 2016 -0700
+
+    Tweak formatting
+
+commit 74f073e4b2dc2eccf7eb2f79c49cd30ee99a36e3
+Merge: a2f6c7f 8cfcb0a
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Mar 28 13:20:24 2016 -0700
+
+    Merge branch 'master' of github.com:Devbootcamp/phase-0-tracks
+
+commit a2f6c7f824f17f85ba3a6eb70fa2e311df890c6f
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Mar 28 13:20:13 2016 -0700
+
+    Fix funky quotes
+
+commit 8cfcb0a62003313c4b2bf6653b77ae5cf68a2b26
+Author: jhgilbert <j.h.gilbert@gmail.com>
+Date:   Mon Mar 28 11:37:18 2016 -0700
+
+    Update README.md
+
+commit f79249b3e78182dba3198ac69f0671da8ee6ec6e
+Author: jhgilbert <j.h.gilbert@gmail.com>
+Date:   Mon Mar 28 11:36:56 2016 -0700
+
+    Add TOC
+
+commit 173bcb9010ee1677ff967459a20a627e73d3a7a4
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Mar 28 11:30:25 2016 -0700
+
+    Copy JS lab to new repo
+
+commit 5292eca3ae77c75708151962af6fbca6e410096b
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Mar 14 03:41:50 2016 -0500
+
+    Add images for positioning challenge
+
+commit 9fb8dcdeb864b00e700244399ee4b29301ca17ba
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sun Mar 13 23:31:41 2016 -0500
+
+    Add images
+
+commit 0e4ed88ffa4b501a649a36331a0abe2d9e2f8456
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sun Mar 13 23:09:14 2016 -0500
+
+    Tweak
+
+commit 18572f397d5bdcb864b51de0af02fa2265926c2e
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sun Mar 13 20:22:26 2016 -0500
+
+    Set up responsiveness project
+
+commit d2dd6d135daa3426a1108b5f4391e84724ceaa4b
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sat Mar 12 01:51:58 2016 -0600
+
+    Remove stylesheet link
+
+commit 36c88aa729e4fc4cccf800b28be0e503cbd2b208
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sat Mar 12 01:24:43 2016 -0600
+
+    Roll back Tyler's changes
+
+commit 928a1f29f0c72d33b8ef1bb33a3a0cafe9b3bd43
+Merge: ed8e4a4 00de645
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sat Mar 12 01:22:27 2016 -0600
+
+    Merge Tyler's changes
+
+commit ed8e4a45aa0053c74783bedf9e95881384a5a3d3
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sat Mar 12 01:14:55 2016 -0600
+
+    Clean up
+
+commit 00de645beb58d8f21951d140561dc1a7f257c014
+Merge: 5201273 3a72581
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Thu Mar 10 16:54:27 2016 -0600
+
+    Merge pull request #79 from Bontgoy/master
+    
+    do thi
+
+commit 3a725815271665b5664f08559a4b572e81a7b30f
+Merge: c9370f9 27f494d
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Thu Mar 10 16:52:04 2016 -0600
+
+    Merge pull request #3 from Bontgoy/moon_bootz
+    
+    changes
+
+commit 27f494d03c607052929ed5dbff27cebf3e242095
+Author: bontgoy <tyjkeating@gmail.com>
+Date:   Thu Mar 10 16:51:00 2016 -0600
+
+    changes
+
+commit 17689c6359594d19cfb836d19eb43d241bb1d9f8
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Wed Mar 9 09:51:10 2016 -0600
+
+    Add some sample files for CSS intro
+
+commit c9370f9128400de4c98653c90af07a566da2c1df
+Merge: 6d01f27 cd00018
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Tue Mar 8 19:34:55 2016 -0600
+
+    Merge pull request #2 from Bontgoy/ruby-feature
+    
+    add ruby feature
+
+commit cd000182ba0a9355a40580f7e6a38c4522869eb2
+Author: bontgoy <tyjkeating@gmail.com>
+Date:   Tue Mar 8 19:31:54 2016 -0600
+
+    add ruby feature
+
+commit 6d01f27af1e3a6821b92d56c6142722fc2af936b
+Merge: 5201273 afa3988
+Author: Tyler Keating <tyjkeating@gmail.com>
+Date:   Tue Mar 8 17:13:23 2016 -0600
+
+    Merge pull request #1 from Bontgoy/test-branch
+    
+    add index.html
+
+commit afa398849f2d11ae2cdc4bda7de0f69262ef4073
+Author: bontgoy <tyjkeating@gmail.com>
+Date:   Tue Mar 8 17:10:37 2016 -0600
+
+    add index.html
+
+commit 5201273af42f6a5baaa9db5b8a595197d934027d
+Merge: ebb3d9b 8e6c535
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sat Mar 5 14:33:06 2016 -0800
+
+    Merge branch 'master' of github.com:Devbootcamp/phase-0-tracks
+
+commit 8e6c535a5c9587cd7d32a65abdbd87fdd9a6a4eb
+Author: Anne Spalding <aespaldi@gmail.com>
+Date:   Sat Mar 5 06:32:38 2016 -0800
+
+    Update chrome devtools code
+
+commit 30d6c9dd89acf6c52d5e2dd01a6db0504592e594
+Author: aespaldi <aespaldi@gmail.com>
+Date:   Fri Mar 4 17:20:37 2016 -0800
+
+    Add responsive files
+
+commit ebb3d9bfe571004d00ceaeb64409366a871672ad
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Mar 3 22:41:26 2016 -0800
+
+    Add example form to explore
+
+commit 32e9d4bd3c6e84add55ae186090267788a22c13c
+Author: aespaldi <aespaldi@gmail.com>
+Date:   Thu Mar 3 18:13:36 2016 -0800
+
+    Add chrome devtools base code
+
+commit b65507fddce3082a5a2d98a8c93997cf435b8a2a
+Merge: a81fd6b ad1c962
+Author: Anne <aespaldi@gmail.com>
+Date:   Thu Mar 3 18:11:29 2016 -0800
+
+    Merge pull request #5 from Devbootcamp/anne-edit
+    
+    add css format files
+
+commit 1ffa8388c5207072d76c298e20e4b84d232f3831
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Wed Mar 2 20:58:27 2016 -0800
+
+    Add starter folder for Moon Bootz
+
+commit 43d877d0a15d0882063e51a2a554c905f3c3d4e3
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Wed Mar 2 20:58:14 2016 -0800
+
+    Ignore DS_Store files
+
+commit ad1c96224c716c68443a0acb74f30d8494e5ef76
+Author: aespaldi <aespaldi@gmail.com>
+Date:   Wed Mar 2 17:39:26 2016 -0800
+
+    add css format files
+
+commit a81fd6b19ca21ba5b8bd6d624d70be0109d0a976
+Author: aespaldi <aespaldi@gmail.com>
+Date:   Wed Mar 2 09:57:22 2016 -0800
+
+    add css-format files
+
+commit d64656027907f4b032b78d7896fcadb178f37c53
+Author: Anne Spalding <aespaldi@gmail.com>
+Date:   Mon Feb 29 15:26:09 2016 -0800
+
+    Add CSS linking challenge files
+
+commit 0a76d26998429263862f1eb74748b440e275dbb6
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sat Feb 27 14:13:22 2016 -0800
+
+    Reorganize files
+
+commit 41ada6d885460bada9c192049153be887ee2a121
+Merge: a254344 485eb99
+Author: Anne <aespaldi@gmail.com>
+Date:   Mon Feb 22 14:41:39 2016 -0800
+
+    Merge pull request #2 from Devbootcamp/anne-edit
+    
+    Add website planning files
+
+commit 485eb99e9b91943dddd02472fb54d52f48b31829
+Author: Anne Spalding <aespaldi@gmail.com>
+Date:   Mon Feb 22 14:40:49 2016 -0800
+
+    Add website planning files
+
+commit a254344dc900b604c1572977fffda3c0afa63f67
+Merge: d19ec96 87a1d82
+Author: Anne <aespaldi@gmail.com>
+Date:   Sun Feb 21 17:46:25 2016 -0800
+
+    Merge pull request #1 from Devbootcamp/anne-edit
+    
+    Add git file and version-control folder
+
+commit 87a1d8268b63999f71b9eddbfde856934d77b9cb
+Author: Anne Spalding <aespaldi@gmail.com>
+Date:   Sun Feb 21 17:45:26 2016 -0800
+
+    Add git file
+
+commit d19ec9630326b71bcebebe83348747b38f9af76a
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Fri Feb 19 19:11:33 2016 -0800
+
+    Add tests for RSpec challenge
+
+commit 182a6ce6c7719954b5136c4310358a34b288fa27
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Feb 18 16:05:18 2016 -0800
+
+    Add destination files for module challenges
+
+commit af0b005f5ca80d88c061041527546337749658e3
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Wed Feb 17 10:50:56 2016 -0800
+
+    Add destination file for attributes challenge
+
+commit 2889719582c867f116bdd5c829c387c0ffc595af
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Feb 16 19:41:48 2016 -0800
+
+    Tweak method
+
+commit cdf96146f03bd7acae1cb4e3f8d670abbe803493
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Feb 16 16:11:02 2016 -0800
+
+    Add submission file for solo class challenge
+
+commit e75424bfe99237eca826cd986863b5611554e23f
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Feb 16 15:18:27 2016 -0800
+
+    Add submission file for Intro to Classes challenge
+
+commit a8808748896ecf743a5718ccf44c873af021ce16
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sun Feb 14 22:08:55 2016 -0800
+
+    Add sample code for each video
+
+commit 5f6fd9464460e2184287ca31854c3884ff29515c
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Sun Feb 14 21:35:48 2016 -0800
+
+    Provide example use of yield keyword
+
+commit f19a88678a9ad8038b30290d30ce8c0839101987
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Fri Feb 12 20:18:34 2016 -0800
+
+    Add destination file for string iteration challenge
+
+commit 65fdeb8c4adf2ff048ff7ba899e6cc6431a1e6fc
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Fri Feb 12 19:14:53 2016 -0800
+
+    Add destination file for iteration assignment
+
+commit aa83f8f2ec2fd3c003ac3068c9dd1cc9667cb70b
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Feb 9 17:48:24 2016 -0800
+
+    Add submission file for nested data structures challenge
+
+commit 0fd44c4a536bb113960d42d49a4ced613a2a4565
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Tue Feb 9 17:12:10 2016 -0800
+
+    Add submission file for hashes challenge
+
+commit 5e938146aab745171b5797105c9e9828a53d8032
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Feb 8 19:32:52 2016 -0800
+
+    Add starter file for arrays challenge
+
+commit ed1ce3dd0ce4613f46b4be656b0316a135d0d13e
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Feb 8 16:42:47 2016 -0800
+
+    Update directions
+
+commit 301e1cdeec550738694bb4b5a62bed49a43a6f89
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Mon Feb 8 14:34:03 2016 -0800
+
+    Add starter file for documentation challenge
+
+commit b21a845a55173cc5b66712c07b01a9bd2beadbb8
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Feb 4 13:49:11 2016 -0800
+
+    Add submission file for 4.5 methods challenge
+
+commit 2fc72da16cb981b27dd9c1becea0d173a616e82c
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Feb 4 13:39:01 2016 -0800
+
+    Add submission file for challenge 4.4
+
+commit 42af7a1ce3700a8aadde53c263bf0266d14eca89
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Feb 4 13:31:40 2016 -0800
+
+    Add submission file for challenge 4.3
+
+commit 64f3e39a8f77c2cf95c1aa82a9b2578eb75e02ff
+Author: Jennifer Gilbert <jennifer@devbootcamp.com>
+Date:   Thu Feb 4 12:10:15 2016 -0800
+
+    Add submission file for 4.2 Algorithms
