@@ -24,32 +24,34 @@ class WordsWithFriends
 
 	def guess_word(word)
 
-			if !@guess_array.include? word
-				p @guess_count -= 1
-			else
-				puts "Reused input."
-			end
+		if !@guess_array.include? word
+			p @guess_count -= 1
+		else
+			puts "Reused input."
+		end
 
-			if @guess_count == 0
-				@game_ended = true
-			else
-				false
-			end
+		if @guess_count == 0
+		  	@game_ended = true
+		else
+			false
+		end
 
-			@guess_array << word
-			guessed_word = word.split("")
-			index = 0
-			@word.each do |i|
-				if guessed_word.index(i)
-					@word_hint[index].replace(i)
-				else
-					@word_hint[index].replace("_")
-				end
-				index += 1
+		@guess_array << word
+		guessed_word = word.split("")
+		index = 0
+		@word.each do |i|
+			if guessed_word.index(i)
+				@word_hint[index].replace(i)
+			else
+				@word_hint[index].replace("_")
 			end
-			p @word_hint.join(" ")
+			index += 1
+		end
+		p @word_hint.join(" ")
 	end
 end
+
+#DRIVER-comment out to run tests.
 
 game = WordsWithFriends.new
 puts "Make up a word for player two to guess: "
