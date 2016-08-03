@@ -1,34 +1,25 @@
 class Dancer
 
-	attr_writer :age
-	attr_reader :dancer_name
+	attr_reader :name
+	attr_accessor :age
 
 	def initialize(name, age)
-		@dancer = name
+		@name = name
 		@age = age
 		@dancer_name = []
 	end
 
-	def name
-		@dancer
-	end
-
-	def age
-		@age
-	end
-
 	def pirouette
-		@piroutette = "*twirls*"
+		"*twirls*"
 	end
 
 	def bow
-		@bow = "*bows*"
+		"*bows*"
 	end
 
 	def queue_dance_with(name)
 		@dancer_name << name
-		@name_queue = name
-
+		name
 	end
 
 	def card
