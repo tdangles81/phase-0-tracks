@@ -1,7 +1,7 @@
-//Create a program that takes groups words or sentences, 
-//and individually search for the item in the ARRAY with the 
-//greatest number of characters. Program should print result
-//that meets the conditions of the program.
+//Create a program that takes groups of words or sentences, 
+//and individually searches for the items contained in them with the 
+//greatest number of characters. Program should the print result
+//that meets the conditions of the program or the longest word or phrase from the ARRAY.
 
 function LongestWord(array){
 	//Create an empty value that will store the longest word or phrase.
