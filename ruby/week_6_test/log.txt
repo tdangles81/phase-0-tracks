@@ -1,5 +1,0 @@
-commit 23836b54118d6a529d2035511dade44886e58d82
-Author: Ty Daniels <ty.multisonus@gmail.com>
-Date:   Mon Aug 1 23:38:23 2016 -0700
-
-    Added dancer.rb w/ dancer_test.rb
