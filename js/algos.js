@@ -3,7 +3,7 @@
 //greatest number of characters. Program should the print result
 //that meets the conditions of the program or the longest word or phrase from the ARRAY.
 
-function longestword(array){
+function longestWord(array){
 	//Create an empty value that will store the longest word or phrase.
 	var longer = '';
 	//Determine the number of times to search through the STRINGS by number in array.
@@ -19,15 +19,15 @@ function longestword(array){
 }
 
 //DRIVER
-longestword(["eleven", "two", "threeeeeee"])
-longestword(["kitty cat", "doggy", "monkey"])
+longestWord(["eleven", "two", "threeeeeee"])
+longestWord(["kitty cat", "doggy", "monkey"])
 
 //------------------------------>
 //Program takes two inputs that will be compared with one another. Order
 //of input does not affect how it operates. Both inputs will be OBJECTS
 //with KEY/VALUE pairs, which will be matched against eachother in the program.
 
-function findkeyval(obj1, obj2) {
+function findKeyVal(obj1, obj2) {
 		//Check the similarities between the keys of the program. If equal, the condition is true.
 	    if (obj1.name == obj2.name) {
 			console.log("These object names match.")
@@ -50,12 +50,12 @@ obj1 = {name: "Steven",
 obj2 = {name : "Steven", 
 		age : 54
 	}
-findkeyval(obj1, obj2)
+findKeyVal(obj1, obj2)
 
 //------------------------------>
 //This program should take a number which will define the number of times it should run, as well as
 //the amount of words or phrases that it should randomly generate then store.
-function generaterandom(arrlen) {
+function generateRandom(arrlen) {
 	//Create empty values which will later be used to store information temporarily.
 	wordarr = []
 	var alphabet = "abcdefghijklmnopqrstuvwxyz"
@@ -85,8 +85,8 @@ function generaterandom(arrlen) {
 //DRIVER
 var counter = 0
 while (counter < 10) {
-	generaterandom(10);
+	generateRandom(10);
 	var randomarr = wordarr;
-	longestword(randomarr);
+	longestWord(randomarr);
 	counter += 1
 }
