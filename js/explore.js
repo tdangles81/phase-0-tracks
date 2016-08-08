@@ -3,17 +3,21 @@
 //take each letter and save into a new STRING, forming a new word. 
 //Printing this new word will show the initial word in reverse.
 
-function Reverse(string){
-	char = '';
-	for (var i = string.length; i > 0; i--)
+function reverse(string){
+	var char = "";
+	for (var i = string.length; i >= 0; i--) {
 		char += string[i];
-		return char;
 	}
+	return char
+}
 
-Reverse("This is my super short string")
+var instance = reverse("This is my super short string")
+var count = 0
 
-if (char.length < 100) {
-	console.log(char);
+if (count < 100) {
+	var reversed_string = instance;
+	console.log(reversed_string);
+	count += 1
 }else {
 	console.log("Woops, that string is too long!");
 }
