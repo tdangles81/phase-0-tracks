@@ -1,0 +1,17 @@
+SELECT employee.name, salary.salary FROM employee JOIN salary ON employee.salary_id = salary_id;
+
+Steve Wozniak|101000
+Steve Wozniak|80000
+Steve Wozniak|101000
+Steve Wozniak|80000
+Ty Daniels|101000
+Ty Daniels|80000
+
+SELECT employee.name, jobs.job FROM employee JOIN jobs ON employee.job_id = job_id;
+
+Steve Wozniak|iOS Engineer
+Steve Wozniak|Web Developer
+Steve Wozniak|iOS Engineer
+Steve Wozniak|Web Developer
+Ty Daniels|iOS Engineer
+Ty Daniels|Web Developer
