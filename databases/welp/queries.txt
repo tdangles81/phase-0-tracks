@@ -1,0 +1,8 @@
+SELECT reviews.stars, reviews.comment, businesses.name, names.first, names.last FROM reviews JOIN businesses ON reviews.business_id = businesses.id JOIN names ON reviews.user_id = names.id;
+
+5|Awesome!|Sushi World|Bradford|Pitt
+3|Delicious!|Amir's Towing|Steven|Wonder
+
+SELECT * FROM reviews JOIN businesses ON reviews.business_id = businesses.id JOIN names ON reviews.user_id = names.id WHERE businesses.name = "Sushi World";
+
+1|5|Awesome!|2|1|2|Sushi World|1|Bradford|Pitt
