@@ -6,7 +6,7 @@
 
 2. Running a VPS is creating a server-like machine from the client using its data. To break it down, if I wanted to set up and modify a personal server and it's storage, I would have to pay for hardware (hard-drives) as well as learn how to run an operating system from that server, and whatever else is required to make a server run efficiently--such as cooling techniques. Instead, I could emulate a remote server from my personal machine, which would be limited by its own CPU and storage capabilities.
 
-3. If you're not performing root tasks in Linux, it's recommended to run general programs and operations from within ROOT. Every action taken from within ROOT will manipulate the root (main) operating system in some way. A malicious download would give hackers halfway access to otherwise hard-to-reach files (would not need to log in), or a bug could become permanently embedded in the operating system, which could only be deleted by formatting the hard drive.
+3. If you're not performing root tasks in Linux, it's recommended (argued) not to run general programs and operations from within ROOT. Every action taken from within ROOT will manipulate the root (main) operating system in some way. A malicious download would give hackers halfway access to otherwise hard-to-reach files (would not need to log in), or a bug could become permanently embedded in the operating system, which could only be deleted by formatting the hard drive.
 
 
 
