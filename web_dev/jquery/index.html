@@ -1,0 +1,31 @@
+<!--begin
+	Simple design that allows user to click on a button that triggers an external JQUERY file's methods in order to manipulate the DOM, similary to how we used Vanilla Javascript to render HTML in the browser. In this case, created a button that adds a pulse animation effect to entire page.
+end-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	 <script type = "text/javascript" 
+         src = "http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		
+      <script type = "text/javascript" 
+         src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+      <script type = "text/javascript" language = "javascript">
+   
+         $(document).ready(function() {
+
+            $("#button").click(function(){
+               $("body").effect( "pulsate", {times:5}, 6000 );
+               $("body").css({backgroundColor: "red"});
+            });
+				
+         });
+			
+      </script>
+</head>
+<body>
+<button id = "button" style="margin-left:40%; margin-top: 10%; width: 500px; height: 500px;">Untz Untz</button>
+</body>
+</html>
